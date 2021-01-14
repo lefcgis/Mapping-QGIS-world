@@ -1,4 +1,4 @@
-# Mapping-QGIS-world
+# Mapping QGIS in the world
 This project talk about how QGIS is growing up all around the world, in every coordinate beat a fell. Born a new way to believe again. en cada latitud. Un sentimiento, una nueva forma de volver a creer. 
 
 ¡Arrepentíos y aceptad la nueva fe en QGIS!
