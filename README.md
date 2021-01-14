@@ -6,7 +6,10 @@ Cómo va creciendo la fe en QGIS en cada latitud. Un sentimiento, una nueva form
 
 <p>
  <a href="https://github.com/qgispe">
-  <img src="https://img.shields.io/badge/QGIS_Perú-%258f01.svg?&style=for-the-badge&logo=qgis&logoColor=white" height="23">
+  <img src="https://img.shields.io/badge/QGIS_Perú-%258f01.svg?&style=plastic&logo=qgis&logoColor=white" height="23">
+  </a>
+  <a href="https://github.com/qgises">
+  <img src="https://img.shields.io/badge/QGIS_España-%258f01.svg?&style=plastic&logo=qgis&logoColor=orange" height="23">
   </a>
  <a href="https://github.com/qgispe">
   <img src="https://img.shields.io/badge/Autor-Lucho%20Ferrer-lightgrey?style=for-the-badge" height="23">
