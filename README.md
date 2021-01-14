@@ -1,7 +1,8 @@
 # Mapping-QGIS-world
-Cómo va creciendo la fe en QGIS en cada latitud. Un sentimiento, una nueva forma de volver a creer. Arrepentíos y aceptad la fe en QGIS.
+This project talk about how QGIS is growing up all around the world, in every coordinate beat a fell. Born a new way to believe again. en cada latitud. Un sentimiento, una nueva forma de volver a creer. 
 
-#ComparteYlibérate
+¡Arrepentíos y aceptad la nueva fe en QGIS!
+
 
 This repository was developed by
 <p>
@@ -16,7 +17,8 @@ This repository was developed by
   </a>
 
 <p>
-You can find the project and modify it.
+You can find the project in JS, HTML and CSSS, and modify it!
+  
 
 # QGIS in the world
 
