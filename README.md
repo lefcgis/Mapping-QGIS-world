@@ -1,12 +1,12 @@
 # Mapping QGIS in the world
-This project talk about how QGIS is growing up all around the world, in every coordinate beat a fell. Born a new way to believe again. en cada latitud. Un sentimiento, una nueva forma de volver a creer. 
+This project talk about how QGIS is growing up all around the world, in every coordinate beat a fell. Born a new way to believe again.
 
 ¡Arrepentíos y aceptad la nueva fe en QGIS!
 
 
 This repository was developed by
 <p>
-  <a href="https://github.com/qgispe">
+  <a href="https://twitter.com/quecrees">
   <img src="https://img.shields.io/badge/Lucho%20Ferrer-blue?style=flat" height="20">
   </a>
  <a href="https://github.com/qgispe">
@@ -17,7 +17,7 @@ This repository was developed by
   </a>
 
 <p>
-You can find the project in JS, HTML and CSSS, and modify it!
+You can find the project in JS, HTML and CSS, and modify it!
   
 
 # QGIS in the world
