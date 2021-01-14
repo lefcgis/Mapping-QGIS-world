@@ -6,13 +6,13 @@ Cómo va creciendo la fe en QGIS en cada latitud. Un sentimiento, una nueva form
 This repository was developed by
 <p>
   <a href="https://github.com/qgispe">
-  <img src="https://img.shields.io/badge/Developed by-Lucho%20Ferrer-blue?style=flat" height="25">
+  <img src="https://img.shields.io/badge/Lucho%20Ferrer-blue?style=flat" height="20">
   </a>
  <a href="https://github.com/qgispe">
-  <img src="https://img.shields.io/badge/QGIS_Perú-%258f01.svg?&style=plastic&logo=qgis&logoColor=white" height="25">
+  <img src="https://img.shields.io/badge/QGIS_Perú-%258f01.svg?&style=plastic&logo=qgis&logoColor=white" height="20">
   </a>
   <a href="https://github.com/qgises">
-  <img src="https://img.shields.io/badge/QGIS_España-%258f01.svg?&style=plastic&logo=qgis&logoColor=orange" height="25">
+  <img src="https://img.shields.io/badge/QGIS_España-%258f01.svg?&style=plastic&logo=qgis&logoColor=orange" height="20">
   </a>
 
 <p>
