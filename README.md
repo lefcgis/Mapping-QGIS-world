@@ -17,7 +17,7 @@ This repository was developed by
   </a>
 
 <p>
-You can find the project in JS, HTML and CSS, and modify it!
+You can find the project in CSV, JS, HTML and CSS, and modify it!
   
 
 # QGIS in the world
